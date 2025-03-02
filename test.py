@@ -7,3 +7,4 @@
 # import package
 
 # code
+print("hello world")
